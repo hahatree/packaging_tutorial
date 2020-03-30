@@ -11,7 +11,7 @@ setuptools.setup(
     description="Django網頁框架",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/hahatree/python.git",
+    url="https://github.com/hahatree/packaging_tutorial.git",
     packages=setuptools.find_packages(),
     classifiers=[
          "Programming Language :: Python",
