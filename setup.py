@@ -4,14 +4,14 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="Django", # Replace with your own username
+    name="packaging_tutorial", # Replace with your own username
     version="1.0.0",
     author="Mark",
     author_email="NT87189@cathaybk.com.tw",
     description="Django網頁框架",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/hahatree/python.git",
+    url="https://github.com/hahatree/packaging_tutorial.git",
     packages=setuptools.find_packages(),
     classifiers=[
          "Programming Language :: Python",
